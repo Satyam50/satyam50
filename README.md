@@ -11,10 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=satyam50&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-
+## Languages
 <p align="center">
-  <h3>Languages</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
@@ -24,8 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
 </p>
 
+## Frameworks & Libraries
 <p align="center">
-  <h3>Frameworks & Libraries</h3>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40">
   <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" width="40" height="40">
@@ -33,8 +31,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40">
 </p>
 
+## Tools & Platforms
 <p align="center">
-  <h3>Tools & Platforms</h3>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
@@ -42,8 +40,8 @@
   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40">
 </p>
 
+## Databases
 <p align="center">
-  <h3>Databases</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
 </p>
